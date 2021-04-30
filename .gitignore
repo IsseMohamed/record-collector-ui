@@ -1,0 +1,10 @@
+_ReSharper.Caches/
+.vs/
+*.csproj.user
+bin
+obj
+appsettings.Development.json
+node_modules
+artifacts/static-site/
+artifacts/zip-*.bat
+artifacts/*.zip
